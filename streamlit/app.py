@@ -26,4 +26,4 @@ Stay tuned 🚀
 
 # 聯絡資訊 (可選)
 st.write("---")
-st.write("Contact: rolo.tools.dev@example.com")
+
